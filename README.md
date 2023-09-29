@@ -1,5 +1,18 @@
 # Terminal
 
+## A fork of panr's no longer maintained theme
+
+Contains an updated module declaration. I don't have much time to maintain it, I just use it for my blog. I will accept
+pull requests under the following conditions:
+
+1. They don't break my site.
+2. They seem to make sense as far as maintaining compatibility with hugo.
+3. They are easy enough to review and look safe.
+
+I don't currently have plans to "actively" develop this fork.
+
+Original README below.
+
 ## The theme is no longer maintained, but can still be used
 
 Even if the repository is archived you can still use the theme, fork it, download it, expand it, etc. Remember that each Hugo theme is a module that can be modified to match your needs. The theme is fully "open" and it depends only on the internal engines implemented in Hugo.
